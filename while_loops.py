@@ -6,3 +6,4 @@ while value < user_input:
     value=value+1
 
     print(f"All required apples removed {value}")
+
